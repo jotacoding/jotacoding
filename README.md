@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jo%c3%a3o-victor-cavalcante-36a616203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-victor-cavalcante-36a616203/" height="30" width="40" /></a>
 <a href="https://instagram.com/_cavalcante_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_cavalcante_" height="30" width="40" /></a>
-<a href="https://discord.gg/jv#2254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jv#2254" height="30" width="40" /></a>
+<a href="https://discord.gg/Jv#2254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jv#2254" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
