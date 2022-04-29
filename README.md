@@ -40,4 +40,5 @@
 
 
 
+![Snake animation](https://github.com/jotacoding/codethi/blob/output/github-contribution-grid-snake.svg)
 
