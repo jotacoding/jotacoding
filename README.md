@@ -22,7 +22,7 @@
 <a href="https://discord.gg/Cavalcante#0881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jv#2254" height="30" width="40" /></a>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-João Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-cavalcante-silva/)](https://www.linkedin.com/in/joao-victor-cavalcante-silva/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-cavalcante-silva/)](https://www.linkedin.com/in/joao-victor-cavalcante-silva/)
 [![Gmail Badge](https://img.shields.io/badge/-jvc881@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvc881@gmail.com)](mailto:jvc881@gmail.com)
 
 </p>
