@@ -31,7 +31,7 @@
   <img align="center" alt="Express.JS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&color=190321&logoColor=%2361DAFB" />
   <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&color=190321&logoColor=green" />
   <img align="center" alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=190321&logoColor=orange" />
-  <img align="center" alt="POSTGREE" SRC="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=git&color=190321&logoColor=white" />
+  <img align="center" alt="POSTGREE" SRC="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&color=190321&logoColor=white" />
   <br></br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotacoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
