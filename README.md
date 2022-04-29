@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleehbest/)
+
   
 [![Linkedin Badge](https://img.shields.io/badge/-João-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-cavalcante-silva/)](https://www.linkedin.com/in/joao-victor-cavalcante-silva/)
 [![Gmail Badge](https://img.shields.io/badge/-jvc881@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvc881@gmail.com)](mailto:jvc881@gmail.com)
-
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleehbest/)
 </p>
 
 
