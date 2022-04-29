@@ -40,3 +40,4 @@
 
 
 
+![Snake animation](https://github.com/jotacoding/jotacoding/blob/output/github-contribution-grid-snake.svg)
