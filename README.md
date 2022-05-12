@@ -5,6 +5,12 @@
 
 
 
+<img align="right" alt="Coding" width="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b29b223-1992-414b-849b-4ab6ecea943c/dbg4hlw-0e3b8e83-54fa-4465-9169-3fe49f7e22a9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNiMjliMjIzLTE5OTItNDE0Yi04NDliLTRhYjZlY2VhOTQzY1wvZGJnNGhsdy0wZTNiOGU4My01NGZhLTQ0NjUtOTE2OS0zZmU0OWY3ZTIyYTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uX08WksTmpq2QQ5XH4TZWc9vz-SfDET-uEGh7vr-92I">
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jotacoding&label=Profile%20views&color=0e75b6&style=flat" alt="jotacoding" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
