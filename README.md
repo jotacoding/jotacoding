@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi everyone, I'm 𝙹𝚘𝚊𝚘 𝚅𝚒𝚌𝚝𝚘𝚛! 👨‍💻</h1>
 <h3 align="center">A technology lover from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b29b223-1992-414b-849b-4ab6ecea943c/dbg4hlw-0e3b8e83-54fa-4465-9169-3fe49f7e22a9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNiMjliMjIzLTE5OTItNDE0Yi04NDliLTRhYjZlY2VhOTQzY1wvZGJnNGhsdy0wZTNiOGU4My01NGZhLTQ0NjUtOTE2OS0zZmU0OWY3ZTIyYTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uX08WksTmpq2QQ5XH4TZWc9vz-SfDET-uEGh7vr-92I">
+<img align="right" alt="Coding" width="400" src="https://photos.google.com/search/_tra_/photo/AF1QipPjqBZPax28k5Ph94FjhMHMqKt3P9o0l-MIG21h">
 
 
 
