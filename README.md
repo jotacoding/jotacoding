@@ -32,7 +32,7 @@
   <img align="center" alt="POSTGREE" SRC="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&color=190321&logoColor=white" />
   <br></br>
 
-<img height="400em" src="https://github-readme-stats.vercel.app/api?username=jotacoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="380em" src="https://github-readme-stats.vercel.app/api?username=jotacoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotacoding&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
