@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi everyone, I'm 𝙹𝚘𝚊𝚘 𝚅𝚒𝚌𝚝𝚘𝚛! 👨‍💻</h1>
 <h3 align="center">A technology lover from Brazil</h3>
-<hr>
+
 <img align="right" alt="Coding" width="500" src="https://lh3.googleusercontent.com/NqvSAAjHHW9TCFwET4LcXcpJ4fjIGbi8_SKg65M1fLbxfi2pJjzAB7Si7iGrpgPZM9BWUNb8uZTCVo1COknv6MyCSQ_22VuNyr1Cs7U6LMSGZ-_hCf-4YdXAAfdxStYZzRpVZYcywMOF38HQ7TAbn80qagxVSF54ORt9FSz8vVxxvgWS4gsoyMqFiiCoxzyC18yPWenDNDjLXK3szebXHP-xI_lj7UAV0Mko3w55PHv5lyrKXxgRXbr-X61fHbX4NMlliIOUAORRpqQ0y7dMjPLmfZPsMLYQwpZNP4gM3ntuvSSZGGu8jYUCnMmXNSfLZA-4jaTfKDY9ox40BbTSp_RCmmWlbvlSjD1H6XYv08aD2B4IQuotUY87u9ynF9n7bBOwboRZvwf9ClA1WKTcmh06dFphm8aAzt49w7OECJ99ivjarfIGag9gCyAWf8vCNiW39OIOBHQWzl-48fcZirPvfex0WZbuz6rMMad6Ni-rBnfnkJl0K-4puCZI-krWuAkQIbkO3tNPs5VbSDWyTLEK1sssg1D7xY2p50RtRcFrJTFyfruZ1PK60hpQGlnu6w7s3WzvbBwOpHuXMt37kPzugCodZijhslgkIMCJRW2B_CyNXuP3r3l6Sj5XnaJnRbkmiKIx18PgB6MQ0bfiekV-jMM-AB_lPtxeH-WrqjxOgz32XLNDO7eaUuygMNbmj4PLsmqNFEm6s2DZie3kfE5SudEb0y4tI35cBG3J3EMH5XEYATRmVMwRq0vzgrx5h4PrwIpRloc9a9zcSp6de_Bomi1KLBcd_sg=s649-no?authuser=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jotacoding&label=Profile%20views&color=0e75b6&style=flat" alt="jotacoding" /> </p>
@@ -20,7 +20,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jvc881@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvc881@gmail.com)](mailto:jvc881@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_cavalcante_/)
 </p>
-<hr>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
@@ -32,7 +32,7 @@
   <img align="center" alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=190321&logoColor=orange" />
   <img align="center" alt="POSTGREE" SRC="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&color=190321&logoColor=white" />
   <br></br>
-
+<hr>
 <img src="https://github-readme-stats.vercel.app/api?username=jotacoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotacoding&layout=compact&langs_count=7&theme=dracula"/>
 </div>
