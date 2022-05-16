@@ -2,7 +2,7 @@
 <h1 align="center">Hi everyone, I'm 𝙹𝚘𝚊𝚘 𝚅𝚒𝚌𝚝𝚘𝚛! 👨‍💻</h1>
 <h3 align="center">A technology lover from Brazil</h3>
 
-<img align="right" alt="Coding" width="500" src="https://live.staticflickr.com/65535/52078918484_5b384c5925_c.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jotacoding&label=Profile%20views&color=0e75b6&style=flat" alt="jotacoding" /> </p>
 
