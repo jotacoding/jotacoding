@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi everyone, I'm 𝙹𝚘𝚊𝚘 𝚅𝚒𝚌𝚝𝚘𝚛! 👨‍💻</h1>
-<h3 align="center">A technology lover from Brazil</h3>
+<h1 align="center">ʜɪ ᴇᴠᴇʀʏᴏɴᴇ, ɪ'ᴍ ᴊᴏᴀᴏ ᴠɪᴄᴛᴏʀ, ᴀɴᴅ ᴛʜɪꜱ ɪꜱ ᴍʏ ᴘʀᴏꜰɪʟᴇ! 🎲</h1>
+<h3 align="center">ᴀ ᴛᴇᴄʜɴᴏʟᴏɢʏ ʟᴏᴠᴇʀ ғʀᴏᴍ ʙʀᴀᴢɪʟ ❤️</h3>
 
-<img height="180em" src="https://uploaddeimagens.com.br/images/003/884/878/full/ReadyPlayerMe-Avatar.png?1653707095">
+<img align="right" height="400" width="400" src="https://uploaddeimagens.com.br/images/003/884/878/full/ReadyPlayerMe-Avatar.png?1653707095">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jotacoding&label=Profile%20views&color=0e75b6&style=flat" alt="jotacoding" /> </p>
@@ -32,13 +32,16 @@
   <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&color=190321&logoColor=green" />
   <img align="center" alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=190321&logoColor=orange" />
   <img align="center" alt="POSTGREE" SRC="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&color=190321&logoColor=white" />
+  <img align="center" alt="REACT" SRC="https://img.shields.io/badge/React-316192?style=for-the-badge&logo=react&color=190321&logoColor=cyan" />
   <br></br>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=jotacoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotacoding&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotacoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotacoding&layout=compact&langs_count=7&theme=dracula"/>
+
 
 
 
 ![Snake animation](https://github.com/jotacoding/codethi/blob/output/github-contribution-grid-snake.svg)
-
+</div>
