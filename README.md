@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 🤝 I’m looking for help with **Front-End**
+- 🤝 I’m looking for help with **Front-End and Back-End**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block">
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&color=190321&logoColor=cyan" />
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&color=190321&logoColor=blue" />
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&color=190321&logoColor=orange" />
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&color=190321" />
   <img align="center" alt="Express.JS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&color=190321&logoColor=%2361DAFB" />
@@ -33,6 +33,7 @@
   <img align="center" alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=190321&logoColor=orange" />
   <img align="center" alt="POSTGREE" SRC="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&color=190321&logoColor=white" />
   <img align="center" alt="REACT" SRC="https://img.shields.io/badge/React-316192?style=for-the-badge&logo=react&color=190321&logoColor=cyan" />
+  <img align="center" alt="PYTHON" SRC="https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&color=190321&logoColor=blue" />
   <br></br>
 <hr>
 </div>
