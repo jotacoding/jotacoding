@@ -34,7 +34,7 @@
   <img align="center" alt="POSTGREE" SRC="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&color=190321&logoColor=white" />
   <img align="center" alt="REACT" SRC="https://img.shields.io/badge/React-316192?style=for-the-badge&logo=react&color=190321&logoColor=cyan" />
   <img align="center" alt="PYTHON" SRC="https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&color=190321&logoColor=blue" />
-   align="center" alt="TYPESCRIPT" SRC="https://img.shields.io/badge/Typescript-316192?style=for-the-badge&logo=typescript&color=190321&logoColor=blue" />
+  <img align="center" alt="TYPESCRIPT" SRC="https://img.shields.io/badge/Typescript-316192?style=for-the-badge&logo=typescript&color=190321&logoColor=blue" />
   <br></br>
 <hr>
 </div>
