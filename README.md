@@ -34,6 +34,6 @@
 ---
 
 ## 🌐 Get in touch
-[![Linkedin Badge](https://img.shields.io/badge/-João_Victor-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-cavalcante-silva/)
-[![Gmail Badge](https://img.shields.io/badge/-jvc881@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvc881@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-cavalcante-silva/)
+[![Gmail Badge](https://img.shields.io/badge/-E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvc881@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_cavalcante_/)
