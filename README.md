@@ -23,20 +23,12 @@
 
 ### 🌐 Web & Backend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗄 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jotacoding&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotacoding&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
